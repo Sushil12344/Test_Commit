@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+// what's this main.. just add origin in remot name and repo url in location and then fetch changes to check if working. then start pusing or commiting the code.
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     var window: UIWindow?
