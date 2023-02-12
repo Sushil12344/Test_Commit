@@ -1,0 +1,8 @@
+What I can say
+You need to just copy the repo path
+and add it into the "Add existing repo" location field.
+in the Name field you can give anything doesn't matter.
+then in few seconds or minutes it will sync all the branches and info from github to your xcode. 
+you can test it by go to pull and see branch list is coming or not.
+Just take a pull for latest repo and go for push changes to remote repo.
+push sends all the commits of local to remote.
