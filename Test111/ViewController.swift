@@ -50,8 +50,10 @@ class ViewController: UIViewController {
         print("\(self.lbl4.font)")
         print("\(self.lbl5.font)")
         print("\(self.lbl6.font)")
-//
-        
+//trying to learn..
+        // i think i figure out finally
+        SFProDisplay-RegularItalic
+        SFProDisplay-SemiboldItalic
 //        SF Pro Display
 //        SFProDisplay-Bold
 //        SFProDisplay-BoldItalic

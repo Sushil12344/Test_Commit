@@ -35,6 +35,8 @@
 		A733E9AF296862D500FD9236 /* Test111Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A733E9AE296862D500FD9236 /* Test111Tests.swift */; };
 		A733E9B9296862D500FD9236 /* Test111UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A733E9B8296862D500FD9236 /* Test111UITests.swift */; };
 		A733E9BB296862D500FD9236 /* Test111UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A733E9BA296862D500FD9236 /* Test111UITestsLaunchTests.swift */; };
+		A7D2E4AC297FCC380052DFD1 /* ProximaNova-Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = A7D2E4AA297FCC380052DFD1 /* ProximaNova-Semibold.otf */; };
+		A7D2E4AD297FCC380052DFD1 /* ProximaNova-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = A7D2E4AB297FCC380052DFD1 /* ProximaNova-Regular.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -87,6 +89,8 @@
 		A733E9B4296862D500FD9236 /* Test111UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Test111UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A733E9B8296862D500FD9236 /* Test111UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test111UITests.swift; sourceTree = "<group>"; };
 		A733E9BA296862D500FD9236 /* Test111UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test111UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A7D2E4AA297FCC380052DFD1 /* ProximaNova-Semibold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ProximaNova-Semibold.otf"; sourceTree = "<group>"; };
+		A7D2E4AB297FCC380052DFD1 /* ProximaNova-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ProximaNova-Regular.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,6 +147,8 @@
 				A728A4682976583600F08CB2 /* SF-Pro-Display-ThinItalic.otf */,
 				A728A4672976583600F08CB2 /* SF-Pro-Display-Ultralight.otf */,
 				A728A4692976583700F08CB2 /* SF-Pro-Display-UltralightItalic.otf */,
+				A7D2E4AB297FCC380052DFD1 /* ProximaNova-Regular.otf */,
+				A7D2E4AA297FCC380052DFD1 /* ProximaNova-Semibold.otf */,
 			);
 			path = Fonts2;
 			sourceTree = "<group>";
@@ -319,7 +325,9 @@
 				A728A47F2976583800F08CB2 /* SF-Pro-Display-RegularItalic.otf in Resources */,
 				A728A47C2976583800F08CB2 /* SF-Pro-Display-BoldItalic.otf in Resources */,
 				A728A451296EE14C00F08CB2 /* NewYork.ttf in Resources */,
+				A7D2E4AC297FCC380052DFD1 /* ProximaNova-Semibold.otf in Resources */,
 				A728A47B2976583800F08CB2 /* SF-Pro-Display-UltralightItalic.otf in Resources */,
+				A7D2E4AD297FCC380052DFD1 /* ProximaNova-Regular.otf in Resources */,
 				A733E99F296862D100FD9236 /* Main.storyboard in Resources */,
 				A728A4822976583800F08CB2 /* SF-Pro-Display-SemiboldItalic.otf in Resources */,
 				A728A4842976583800F08CB2 /* SF-Pro-Display-MediumItalic.otf in Resources */,
